@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 vless://a0fa7e19-70ec-41e0-b0cc-bcc984d4201a@13.143.180.104:443?security=reality&encryption=none&pbk=QvT-t_h_AF2EAT4Ggh_a6pcCK3StY8G9WCXn6-dJbxk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=s12.bsh-net.ru&sid=51079f144d661484#11263@proxy_online_net
 "vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@200.165.231.209:443?encryption=none&security=tls&sni=wstg.datasynctrue.online&type=ws&host=wstg.datasynctrue.online&path=/api/connect&headers={  ""Host"": ""wstg.datasynctrue.online""}#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @AZARBAYJAB1"
 vless://e73df646-1f62-41bf-8c50-653497d603d0@sc-thenetherlands2.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&host=SC-TheNetherlands2.09vpn.com&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
@@ -28,3 +29,68 @@ vless://fd65fd49-beaf-4dbf-b689-bcc53595bd89@tulip.amydoodles.com:443?sni=cdn.ak
 vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@185.126.93.226:443?path=/api/v1/&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=tg1.cdnphotos.org#RU 🇷🇺 | @Raydikalx | BD208A
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#🇷🇺 RU | 104.171.133.209
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@91.210.169.181:443?path=/api/connect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0#@Tarkshodeh 🇺🇲
+=======
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.99:19999#🇮🇹
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#🇳🇱
+
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-0197
+
+vmess://eyJhZGQiOiIxNTguMTYwLjE4MC4xNjUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYzU4YzEyMDUtYjMwOC00MTZmLTg1MDMtYzA0NTU3YWJmOTNkIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyNDIxMiIsInBzIjoiWUZaIDE4NiBAT3V0bGluZV9WcG4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9#%20t.me%2Frjsxrd
+
+vmess://eyJhZGQiOiIxNTguMTYwLjE4MC4xNjUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjE1OC4xNjAuMTgwLjE2NSIsImlkIjoiYzU4YzEyMDUtYjMwOC00MTZmLTg1MDMtYzA0NTU3YWJmOTNkIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyNDIxMiIsInBzIjoiXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1SVSIsInNjeSI6ImF1dG8iLCJzbmkiOiIxNTguMTYwLjE4MC4xNjUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#%20t.me%2Frjsxrd
+
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.90:19999#🇮🇹
+
+vless://fd65fd49-beaf-4dbf-b689-bcc53595bd89@avr.rlrlco.ir:443?insecure=0&fp=chrome&sni=cdn.akamai.steamstatic.com&host=gertypp.global.ssl.fastly.net&encryption=none&path=/setare&allowInsecure=0&security=tls&type=xhttp&mode=auto&extra={"scMaxEachPostBytes":"500000-1000000","scMinPostsIntervalMs":"20-40","xPaddingBytes":"100-1000","xmux":{"maxConcurrency":"16-32","hKeepAlivePeriod":20,"hMaxRequestTimes":"300-500","hMaxReusableSecs":"300-480"}}&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E#🇺🇸202590 | ⚡️Telegram = t.me/SOSkeyNET
+
+vless://fd65fd49-beaf-4dbf-b689-bcc53595bd89@167.82.76.31:443?mode=auto&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=/setare&security=tls&encryption=none&extra={"scMaxEachPostBytes":"500000-1000000","scMinPostsIntervalMs":"20-40","xPaddingBytes":"100-1000","xmux":{"maxConcurrency":"16-32","hKeepAlivePeriod":20,"hMaxRequestTimes":"300-500","hMaxReusableSecs":"300-480"}}&insecure=0&host=kiitalboard.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.akamai.steamstatic.com#@tootffarangi🍓
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#%20%20t.me%2Frjsxrd
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%28%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%29%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%28%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%20193.29.139.157%29%20%7C%20%40RaViraNet%20t.me%2Frjsxrd
+
+vless://fd65fd49-beaf-4dbf-b689-bcc53595bd89@167.82.76.31:443?security=tls&type=xhttp&host=moma.global.ssl.fastly.net&insecure=0&path=/setare&sni=cdn.akamai.steamstatic.com&mode=auto&encryption=none&extra={"scMaxEachPostBytes":"500000-1000000","scMinPostsIntervalMs":"20-40","xPaddingBytes":"100-1000","xmux":{"maxConcurrency":"16-32","hKeepAlivePeriod":20,"hMaxRequestTimes":"300-500","hMaxReusableSecs":"300-480"}}&allowInsecure=0&fp=chrome&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E#🇺🇸202508 | ⚡️Telegram = t.me/SOSkeyNET
+
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@sundaylanzgem.site:443?encryption=none&security=reality&sni=sundaylanzgem.site&fp=qq&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20&type=tcp&headerType=none&insecure=0&flow=xtls-rprx-vision#%E5%B7%B4%E8%A5%BF_102911107%20t.me%2Frjsxrd
+
+vless://fd65fd49-beaf-4dbf-b689-bcc53595bd89@tulip.amydoodles.com:443?mode=auto&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=/setare&security=tls&encryption=none&extra={"scMaxEachPostBytes":"500000-1000000","scMinPostsIntervalMs":"20-40","xPaddingBytes":"100-1000","xmux":{"maxConcurrency":"16-32","hKeepAlivePeriod":20,"hMaxRequestTimes":"300-500","hMaxReusableSecs":"300-480"}}&insecure=0&host=kiitalboard.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.akamai.steamstatic.com#@Shh_Proxy-New¹
+
+trojan://humanity@104.18.37.127:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&fp=chrome&type=ws&allowInsecure=0&sni=www.trusteeforward.com#CA 🇨🇦 | @Raydikalx | F32429
+
+trojan://humanity@172.64.231.133:443?path=%2Fassignment&security=tls&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com#CA 🇨🇦 | @Raydikalx | 50F15C
+
+trojan://humanity@188.114.98.0:443?security=tls&type=ws&host=www.trusteeforward.com&path=/assignment?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&sni=www.trusteeforward.com&alpn=http/1.1&fp=unsafe&cs=TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm={"tcp":#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20717280
+
+trojan://humanity@45.128.76.242:443?path=/assignment&security=tls&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com#@V2ray_Alpha🏀 11
+
+vless://fd65fd49-beaf-4dbf-b689-bcc53595bd89@167.82.76.31:443?security=tls&type=xhttp&host=moma.global.ssl.fastly.net&insecure=0&path=%2Fsetare&sni=cdn.akamai.steamstatic.com&mode=auto&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22scMinPostsIntervalMs%22%3A%2220-40%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22hKeepAlivePeriod%22%3A20%2C%22hMaxRequestTimes%22%3A%22300-500%22%2C%22hMaxReusableSecs%22%3A%22300-480%22%7D%7D&allowInsecure=0&fp=firefox&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E#%F0%9F%87%BA%F0%9F%87%B8202508%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+
+vmess://eyJhZGQiOiJ3d3cudWJ1bnR1dXBkYXRlcy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiODNiMDlhNjQtMWVhZi00YzRkLTg5ZWQtODY2ZDRiNmI4MTE1IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3RydXRoIiwicGNzIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoiQ2hhbm5lbCBpZDogQENvbmZpZ1YyUmF5Tkcg8J+HqPCfh6YiLCJzY3kiOiJhdXRvIiwic25pIjoid3d3LnVidW50dXVwZGF0ZXMuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%28%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%29%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%28%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%20193.29.139.195%29%20%7C%20%40RaViraNet%20t.me%2Frjsxrd
+
+vless://fd65fd49-beaf-4dbf-b689-bcc53595bd89@avr.rlrlco.ir:443?insecure=0&fp=firefox&sni=cdn.akamai.steamstatic.com&host=gertypp.global.ssl.fastly.net&encryption=none&path=%2Fsetare&allowInsecure=0&security=tls&type=xhttp&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22scMinPostsIntervalMs%22%3A%2220-40%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22hKeepAlivePeriod%22%3A20%2C%22hMaxRequestTimes%22%3A%22300-500%22%2C%22hMaxReusableSecs%22%3A%22300-480%22%7D%7D&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E#%F0%9F%87%BA%F0%9F%87%B8202590%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+
+vless://e0216964-ffa1-4d39-82c4-0e40879a470d@185.32.6.26:443?security=reality&encryption=none&pbk=XYkuP_Keu-yL7EQ8xZc4RTmcVAfp06Z1onV2ZNrlsHM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=stable.nullo.pro&sid=c31f187b#🇵🇱 PL | 185.32.6.26
+
+trojan://humanity@172.67.203.46:443?allowInsecure=0&sni=www.cordweave.com&alpn=http/1.1&type=ws&path=/assignment#CA 🇨🇦 | @Raydikalx | C882C4
+
+vless://a289c660-1b12-432b-a06c-c2ae469272b0@62.210.70.194:37783?type=xhttp&security=reality&encryption=mlkem768x25519plus.native.0rtt.I5ge5qOTUhKE8xpufKI84yktvqqG9qkViwYe20uFZUyGwbnK7QMv6Tih0subInSmZTyem1QFG1CDFvGfgMBu3Yw1ryNJfGjMnALAqZawBoukaROcTzxXmFAzuejDalyhxxfNJkeUefW3biOHIzcu_AairYSvJ8l_iHJpKVEKXZWPQWiq-tm_nPJz_oDDhFElaCHKnCslodSen2M6afQQ0HYKc6nKZmZwc1cHG1GKW9xHx6CBfLhFVOhT62tCvbxShul1NJgL-shELnovAtS1aHBFQKDOIiJYC7Ww0awUfsyGIFhnJIhdnqFHnkG7sOcdiWiH-ZkQ11p065zAWEQ14HTOi-aqCAsnWNwdRxwj1_qlArYd3nNF1dXKARRikbMFutC5GyyvSJxk7XwHRGWoK_q6_zK2amtIrsin6tov5kKs3UqywFJMJ2rMtgYZXpvK_TdXumLGUimIq9vFW7idpbMlv9F84NY8UbtrkyB87IQwdKqbtnuOMzxkYik-i9N5vaKcXLSdOGRpMgAKSMt5NbSyllcEh6qUTZoVb_h8ZmYij8csvbGWxodCj1WvOGoRtGGnTSpWMdG3X3ZxXlhNQ6tpIPGTfxkzjPtRjHQDcqm0fgrLjWONnkGxMQRO-Wi50vzNPzW9Vuy5BlZszdGqpjLNRLGw24JTAYKXpxiUkTxUxhO3LRC8kMvGVBgxjImwmwev1IqfPiVIMSwhV0FAMNw27nALh0qyPnNLbFpbTFuTL6V83YypFDl1yahns_AE86ufKnSAaSs_0PwMM_ZDfkhE7nRKCygaD9UjWWygRWq6fZarZahcTAqrZUYPXWxqDsrE7VRYO3ch70AHi6ZXTyKR1YcyM0Kiw3S0kxpjbtWReOJ3lXwry-BjcusDKhRsAxErDIBD6IFuY5ucRTtpfPoNgiq7rSFG8SFNvTe-_wh39Bwjj3JeRnw6kzujiKgxGiAH9GYm6LVvG2ljdWacJjSyoDE6mbFwgRCGdDh4h6eMCPs7hjQmNByx76lb0PYt-BuD9xCfiEFMoKJzTjWUvOy1gbmOrjY5xtkkByo8PCS40YRqXiYQ0Me9U5t_lsdxrvO6f7ajFHBNp_IiQOAstWu9UKC2hiABnVWbHaTFeQSp0tAx9rm5vehC0_a3EAHByGzGFUQ-QWpUO5mvGzZKpPVQrgovg2GsgepxgOMymOgv2CbLNKiwAJJyjDe5d5yXiueH3ZdppJqepXrOGuGOn3e-8RKVu3I-nCp-aMS769Yl5mmS8BYOpxW3HseSzZZMIta4hjsa7hqSgmycflvLV5x-8bM9iBFZ7iOey9oYyEkEbFN-6-Alh2dQfopjE2QNFqW6KatBKHXKHNVoayoc4ZegDKPNAEnAo9wIHkBpDFC-fVoCkGMDcRSeNbF67keruuE0xfMA8ltaklEyRwMcxVQwMhILq6vKlzpJF9OJMGVg5amP_-i4NAsKEfC8Ayp61gByykoWKTWkuLAEAYtXXNIfQ9BPvZca1BITgpC69lapO4SH1UAZ4KRxOTVtbHES_GsjM_lkTv940p3IDkG7jfvxIfY_Q9C3QVbkilRpPvg&path=%2FOCrp5Ajs&sni=www.yahoo.com&fp=chrome&pbk=tQeEamJmYVUUfjRLX7ETvMnPj4DrHzRhR5TI684oYgg&sid=21569dd6&headerType=none&mode=auto#FR 🇫🇷 | @Raydikalx | B3F001
+
+vless://fd65fd49-beaf-4dbf-b689-bcc53595bd89@tulip.amydoodles.com:443?sni=cdn.akamai.steamstatic.com&fp=firefox&insecure=0&host=kiitalboard.global.ssl.fastly.net&extra=%7B%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22scMinPostsIntervalMs%22%3A%2220-40%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22hKeepAlivePeriod%22%3A20%2C%22hMaxRequestTimes%22%3A%22300-500%22%2C%22hMaxReusableSecs%22%3A%22300-480%22%7D%7D&type=xhttp&path=%2Fsetare&mode=auto&encryption=none&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&allowInsecure=0&security=tls#%F0%9F%87%BA%F0%9F%87%B8202532%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+
+trojan://humanity@162.159.84.189:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.trusteeforward.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.trusteeforward.com#CA 🇨🇦 | @Raydikalx | A337E6
+
+trojan://humanity@8.6.112.206:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.trusteeforward.com#@i10VPN⁶
+
+trojan://humanity@172.67.203.46:443?security=tls&sni=www.cordweave.com&type=ws&path=/assignment&Host=www.cordweave.com#%F0%9F%8F%81RELAY-172.67.203.46-0630
+
+trojan://humanity@8.6.112.206:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com#Tel-@ProxyMtAlpha⚽ 4
+
+trojan://humanity@45.128.76.242:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com#@ConfigV2RayNG
+
+trojan://humanity@45.128.76.242:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=www.trusteeforward.com&alpn=http/1.1&type=ws&host=www.trusteeforward.com&path=/assignment#@GozargahAzad|🏁
+
+trojan://humanity@104.18.45.38:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com#CA 🇨🇦 | @Raydikalx | 1EFE59
+>>>>>>> fa327d7e71aaa90e7ce8066707e8ba630b4ac6d1
